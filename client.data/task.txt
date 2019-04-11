@@ -1,0 +1,2 @@
+SESS timestamp=9322.071796902 pid=27731 sid=ef93a9e13f510350 exename="/mnt/shared/home/git/client"
+TASK timestamp=9322.072963622 tid=27731 pid=27731

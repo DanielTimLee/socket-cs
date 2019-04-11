@@ -1,0 +1,15 @@
+559a574e2000-559a576e5000 r-xp 00000000 00:00 0                          /mnt/shared/home/git/socket-cs/server
+7f9f9e02f000-7f9f9e255000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/liblzma.so.5.2.2
+7f9f9e255000-7f9f9e472000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libz.so.1.2.11
+7f9f9e472000-7f9f9e68a000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f9f9e68a000-7f9f9ea28000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libm-2.27.so
+7f9f9ea28000-7f9f9ec43000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libpthread-2.27.so
+7f9f9ec47000-7f9f9ee98000 r-xp 00000000 00:00 0                          /usr/local/lib/libdw-0.175.so
+7f9f9ee98000-7f9f9f0b0000 r-xp 00000000 00:00 0                          /usr/local/lib/libelf-0.175.so
+7f9f9f0b0000-7f9f9f435000 r-xp 00000000 00:00 0                          /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7f9f9f439000-7f9f9f63d000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libdl-2.27.so
+7f9f9f63d000-7f9f9f845000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/librt-2.27.so
+7f9f9f845000-7f9f9fc32000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libc-2.27.so
+7f9f9fc36000-7f9f9fe6a000 r-xp 00000000 00:00 0                          /usr/local/lib/libmcount-fast.so
+7f9f9fe6c000-7f9fa0095000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/ld-2.27.so
+7fff98c9c000-7fff98cbc000 rwxp 00000000 00:00 0                          [stack]

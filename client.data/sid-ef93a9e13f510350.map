@@ -1,0 +1,15 @@
+55a7983f7000-55a7985fa000 r-xp 00000000 00:00 0                          /mnt/shared/home/git/client
+7f71bd1ac000-7f71bd3d2000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/liblzma.so.5.2.2
+7f71bd3d2000-7f71bd5ef000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libz.so.1.2.11
+7f71bd5ef000-7f71bd807000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f71bd807000-7f71bdba5000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libm-2.27.so
+7f71bdba5000-7f71bddc0000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libpthread-2.27.so
+7f71bddc4000-7f71be015000 r-xp 00000000 00:00 0                          /usr/local/lib/libdw-0.175.so
+7f71be015000-7f71be22d000 r-xp 00000000 00:00 0                          /usr/local/lib/libelf-0.175.so
+7f71be22d000-7f71be5b2000 r-xp 00000000 00:00 0                          /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7f71be5b6000-7f71be7ba000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libdl-2.27.so
+7f71be7ba000-7f71be9c2000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/librt-2.27.so
+7f71be9c2000-7f71bedaf000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/libc-2.27.so
+7f71bedb3000-7f71befe7000 r-xp 00000000 00:00 0                          /usr/local/lib/libmcount-fast.so
+7f71befe9000-7f71bf212000 r-xp 00000000 00:00 0                          /lib/x86_64-linux-gnu/ld-2.27.so
+7ffd3ce1d000-7ffd3ce3d000 rwxp 00000000 00:00 0                          [stack]
